@@ -9,9 +9,12 @@ This project demonstrates a Man-in-the-Middle (MITM) attack using `berate_ap` to
 - `git` and `wget` installed on your system
 
 ## Setup Instructions
+```console
 chmod +x setup.sh
 sudo ./setup.sh
-
+```
 ## Run MITM
+```console
 chmod +x mitm_run.sh
 sudo ./mitm_run.sh
+```
